@@ -4,7 +4,7 @@ Simple program that filter the words from subtitle TV Series and display the mos
 
 ![Preview Image](/preview-image.jpg)
 
-## Tecnologies Used
+## Technologies Used
 
 - Electron
 - Vue.JS
