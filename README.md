@@ -1,6 +1,6 @@
 # Most Used Words in a TV serie
 
-Simple program that filter the words from subtitle of a TV Serie and display the most used words with the amount, as example image. :)
+Simple program that filter the words from subtitle TV Series and display the most used words with the amount, as example image. :)
 
 ![Preview Image](/preview-image.jpg)
 
